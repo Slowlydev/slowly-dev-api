@@ -4,7 +4,7 @@
             "id":"slowly-dev",
             "title":"Slowly dev",
             "description":"My Personal Website",
-            "url-link":"/",
+            "url_link":"/",
             "url":"slowlydev.now.sh"
         },
         {
