@@ -1,26 +1,18 @@
 {
-   "projects":[
-      {
-         "id":"slowly-dev",
-         "title":"Slowly dev",
-         "description":"My Personal Website",
-         "url_link":"/",
-         "url":"slowlydev.now.sh"
-      },
-      {
-         "id":"clean-time",
-         "title":"Clean Time",
-         "description":"A web appliacations that shwos time and weather",
-         "url_link":"https://clean-time.now.sh/",
-         "url":"clean-time.now.sh"
-      }
-   ],
-   "posts":[
-      {
-         "title":"My first Post",
-         "date":"16.03.2020",
-         "description":"This is my first Blog post!",
-         "text":"This is my first blog post on my new website i've made my self with NextJS!"
-      }
-   ]
+    "projects": [
+        {
+            "id":"slowly-dev",
+            "title":"Slowly dev",
+            "description":"My Personal Website",
+            "url_link":"/",
+            "url":"slowlydev.now.sh"
+        },
+        {
+            "id":"clean-time",
+            "title":"Clean Time",
+            "description":"A web appliacations that shwos time and weather",
+            "url_link":"https://clean-time.now.sh/",
+            "url":"clean-time.now.sh"
+        }
+    ]
 }
