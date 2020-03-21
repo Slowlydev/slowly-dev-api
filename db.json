@@ -1,6 +1,13 @@
 {
     "projects": [
         {
+            "id": "blog-post-creator",
+            "title": "Blog Post Creator",
+            "description": "A Blog Post Creator that Convert text to Json so i can use it in my Database.",
+            "url_link": "https://blog-post-creator.now.sh/",
+            "url": "blog-post-creator.now.sh"
+        },
+        {
             "id": "slowly-dev",
             "title": "Slowly dev",
             "description": "My Personal Website",
