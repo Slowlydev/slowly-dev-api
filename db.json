@@ -23,6 +23,13 @@
         }
     ],
     "posts": [
+	{
+    	    "id": "clean-time-bugfix",
+    	    "title": "Clean Time bugfixing",
+    	    "date": "2020-04-18",
+    	    "description": "Today i bugfixed my website Clean Time! ",
+            "text": "The proplems were im asking for geolocation without the user doing anything that does Gooel Lighthouse not like so that was one thing to fix, the second is the geolocation gets somtime executed after the function where the weahter for the users postion is grabbed so we would have a ugly screen for 2 minutes 😐. So i had to wite some code so we have a button that then executes the geolocation and then executes the graping for the weather data, after the button push the butten disapears! this was a quick blog written by Slowlydev(Joel Scheffmann)"
+	},
         {
             "id": "my-first-generated-post",
             "title": "My first generated post ",
