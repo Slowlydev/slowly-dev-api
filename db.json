@@ -3,7 +3,7 @@
         {
             "id": "blog-post-creator",
             "title": "Blog Post Creator",
-            "description": "A Blog Post Creator that Convert text to Json so i can use it in my Database.",
+            "description": "A Blog Post Creator that Converts text to Json so i can use it in my Database.",
             "url_link": "https://blog-post-creator.now.sh/",
             "url": "blog-post-creator.now.sh"
         },
@@ -17,7 +17,7 @@
         {
             "id": "clean-time",
             "title": "Clean Time",
-            "description": "A web appliacations that shwos time and weather.",
+            "description": "A web appliacation that shows time and weather.",
             "url_link": "https://clean-time.now.sh/",
             "url": "clean-time.now.sh"
         }
@@ -28,7 +28,7 @@
     	    "title": "Clean Time bugfixing",
     	    "date": "2020-04-18",
     	    "description": "Today i bugfixed my website Clean Time! ",
-            "text": "The proplems were im asking for geolocation without the user doing anything that does Gooel Lighthouse not like so that was one thing to fix, the second is the geolocation gets somtime executed after the function where the weahter for the users postion is grabbed so we would have a ugly screen for 2 minutes 😐. So i had to wite some code so we have a button that then executes the geolocation and then executes the graping for the weather data, after the button push the butten disapears! this was a quick blog written by Slowlydev(Joel Scheffmann)"
+            "text": "The problems were im asking for geolocation without the user doing anything that does Google Lighthouse not like so that was one thing to fix, the second bug is the geolocation gets sometimes executed after the function where the weahter for the users postion is grabbed so we would have a ugly screen for 2 minutes 😐. So i had to write some code so we have a button that then executes the geolocation and then executes the grabbing for the weather data, after you push the button it disappears! This was a quick blog written by Slowlydev(Joel Scheffmann)"
 	},
         {
             "id": "my-first-generated-post",
