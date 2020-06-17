@@ -2,8 +2,8 @@
     "projects": [
         {
             "id": "slowly-tm",
-            "title": "SlowlyTM (Discord Rich Precence GUI)",
-            "description": "A Dicord Rich precence GUI so u can show a costum status! (The Best part is its Open Source)",
+            "title": "SlowlyTM (Discord Rich Presence GUI)",
+            "description": "A Dicord Rich presence GUI so u can show a costum status! (The Best part is its Open Source)",
             "url_link": "https://github.com/Slowlydev/SlowlyTM",
             "url": "Github Repository"
         },
@@ -18,7 +18,7 @@
             "id": "slowly-dev",
             "title": "Slowly dev",
             "description": "My Personal Website made with NextJS",
-            "url_link": "/",
+            "url_link": "https://slowlydev.now.sh/",
             "url": "slowlydev.now.sh"
         },
         {
@@ -30,13 +30,20 @@
         }
     ],
     "posts": [
-	{
+        {
+            "id": "slowly-tm-rich-presence",
+            "title": "SlowlyTM a Dicord Rich Presence GUI",
+            "date": "2020-06-17",
+            "description": "Programming a python Discord Rich Presence GUI",
+            "text": "Today I want to tell you about Discord Rich Presence and pypresence a wrapper for Discord RPC. You need to install Pypresence then a good way to get started is this documentation https://qwertyquerty.github.io/pypresence/html/info/quickstart.html it helped me a lot of understanding it. Now a bit about Discord Rich Presence, its part of the GameSDK from Discord, its build that u can see what your friends are playing and with who they are playing. You can even allow people to Spectate or Join your Friends! Actually it pretty awesome and powerfull! Checkout my git repo to see the full code. This was a tiny look into DRP by Slowlydev(Joel Scheffmann)"
+        },
+	    {
     	    "id": "clean-time-bugfix",
     	    "title": "Clean Time bugfixing",
     	    "date": "2020-04-18",
     	    "description": "Today i bugfixed my website Clean Time! ",
             "text": "The problems were im asking for geolocation without the user doing anything that does Google Lighthouse not like so that was one thing to fix, the second bug is the geolocation gets sometimes executed after the function where the weahter for the users postion is grabbed so we would have a ugly screen for 2 minutes 😐. So i had to write some code so we have a button that then executes the geolocation and then executes the grabbing for the weather data, after you push the button it disappears! This was a quick blog written by Slowlydev(Joel Scheffmann)"
-	},
+	    },
         {
             "id": "my-first-generated-post",
             "title": "My first generated post ",
@@ -47,7 +54,7 @@
         {
             "id": "my-first-post",
             "title": "My first Post",
-            "date": "16-03-2020",
+            "date": "2020-03-16",
             "description": "This is my first Blog post!",
             "text": "This is my first blog post on my new website i've made my self with NextJS!"
         }
