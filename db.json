@@ -1,6 +1,13 @@
 {
     "projects": [
         {
+            "id": "slowly-tm",
+            "title": "SlowlyTM (Discord Rich Precence GUI)",
+            "description": "A Dicord Rich precence GUI so u can show a costum status! (The Best part is its Open Source)",
+            "url_link": "https://github.com/Slowlydev/SlowlyTM",
+            "url": "Github Repository"
+        },
+        {
             "id": "blog-post-creator",
             "title": "Blog Post Creator",
             "description": "A Blog Post Creator that Converts text to Json so i can use it in my Database.",
