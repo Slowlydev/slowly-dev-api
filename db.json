@@ -1,5 +1,33 @@
 {
     "projects": [
+	{
+            "id": "slowlydev-simple",
+            "title": "Slowly Simple",
+            "description": "A Simple version of my portfolio",
+            "url_link": "https://slowlydev-simple.now.sh",
+            "url": "slowly-simple.now.sh"
+        },
+	{
+            "id": "coverx",
+            "title": "CoverX",
+            "description": "Make Apple like playlist covers",
+            "url_link": "https://coverx.now.sh",
+            "url": "coverx.now.sh"
+        },
+	{
+            "id": "videox",
+            "title": "VideoX",
+            "description": "Picture-in-Picture for youtube for ios 14",
+            "url_link": "https://videox.now.sh",
+            "url": "videox.now.sh"
+        },
+	{
+            "id": "heat-studio",
+            "title": "Heat Studio",
+            "description": "A App for the game NeedforSpeed Heat",
+            "url_link": "https://heat-studio.now.sh",
+            "url": "heat-studio.now.sh"
+        },
         {
             "id": "slowly-tm",
             "title": "SlowlyTM (Discord Rich Presence GUI)",
