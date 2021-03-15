@@ -58,6 +58,13 @@
         }
     ],
     "posts": [
+	 {
+	    "id": "big-changes-to-website",
+	    "title": "Big Changes to the Website",
+	    "date": "2021-03-15",
+	    "description": "The next few changes to this website",
+	    "text": "This website is going to ve changed soon so it has automatic updateing of dates, the blog will be on firebase, dark mode, better accesability for mobile devices also i will add markdown to the blog so i can write better Blogs. Thats not all there will be some more futures. Stay tuned -Slowly"
+	},
         {
             "id": "slowly-tm-rich-presence",
             "title": "SlowlyTM a Dicord Rich Presence GUI",
@@ -85,13 +92,6 @@
             "date": "2020-03-16",
             "description": "This is my first Blog post!",
             "text": "This is my first blog post on my new website i've made my self with NextJS!"
-        },
-	{
-	    "id": "big-changes-to-website",
-	    "title": "Big Changes to the Website",
-	    "date": "2021-03-15",
-	    "description": "The next few changes to this website",
-	    "text": "This website is going to ve changed soon so it has automatic updateing of dates, the blog will be on firebase, dark mode, better accesability for mobile devices also i will add markdown to the blog so i can write better Blogs. Thats not all there will be some more futures. Stay tuned -Slowly"
-	}
+        }
     ]
 }
